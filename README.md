@@ -209,6 +209,4 @@ npx hardhat newcircuit --name newcircuit
 
 ## Author
 
-GAURAV GARG
-STUDENT
-CHANDIGARH UNIVERSITY
+ASHISH KUNDU
