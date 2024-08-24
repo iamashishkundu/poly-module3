@@ -210,3 +210,7 @@ npx hardhat newcircuit --name newcircuit
 ## Author
 
 ASHISH KUNDU
+
+## License
+
+[MIT License](./LICENSE)
